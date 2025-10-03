@@ -1,0 +1,10 @@
+ts_1VerifyNew'qualification'CouldBeAddedToTheRecordOfUser=false
+ts-2VerifyNew'qualification'AddedCouldBeEditedFromTheRecordOfUser=false
+ts-3VerifyTheQualificationCouldBeDeleted=false
+ts-4VerifyTheQualificationSelectDeleteFunctionality=false
+ts-5VerifyNew'education'CouldBeAddedToTheRecordOfUser=false
+ts-6VerifyNew'education'AddedCouldBeEditedFromTheRecordOfUser=false
+ts-7VerifyNew'language'CouldBeAddedToTheRecordOfUser=false
+ts-8VerifyNew'language'CouldBeDelegtedToTheRecordOfUser=false
+ts-9VerifyThe'skills'CouldBeAddedToTheRecord=false
+ts-10VerifyThe'skills'CouldBeEditedFromTheRecord=false
